@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.5c2c9faf.css",
-    "main.js": "/static/js/main.b77cc995.js",
+    "main.css": "/static/css/main.dab473c9.css",
+    "main.js": "/static/js/main.c4152e73.js",
     "static/js/787.0625f02e.chunk.js": "/static/js/787.0625f02e.chunk.js",
     "static/media/hero-m.png": "/static/media/hero-m.98b4e3848051185e109b.png",
     "static/media/hero-3.png": "/static/media/hero-3.0b81b871241506dbbe46.png",
     "static/media/hero-vim.png": "/static/media/hero-vim.1ea2b2fb769b88abc0a1.png",
     "index.html": "/index.html",
-    "main.5c2c9faf.css.map": "/static/css/main.5c2c9faf.css.map",
-    "main.b77cc995.js.map": "/static/js/main.b77cc995.js.map",
+    "main.dab473c9.css.map": "/static/css/main.dab473c9.css.map",
+    "main.c4152e73.js.map": "/static/js/main.c4152e73.js.map",
     "787.0625f02e.chunk.js.map": "/static/js/787.0625f02e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5c2c9faf.css",
-    "static/js/main.b77cc995.js"
+    "static/css/main.dab473c9.css",
+    "static/js/main.c4152e73.js"
   ]
 }
